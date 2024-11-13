@@ -1,0 +1,17 @@
+C:\Users\avellino.21018\Desktop\avellino_cassaforte\cassaforte\bin\Debug\net8.0-windows\cassaforte.exe
+C:\Users\avellino.21018\Desktop\avellino_cassaforte\cassaforte\bin\Debug\net8.0-windows\cassaforte.deps.json
+C:\Users\avellino.21018\Desktop\avellino_cassaforte\cassaforte\bin\Debug\net8.0-windows\cassaforte.runtimeconfig.json
+C:\Users\avellino.21018\Desktop\avellino_cassaforte\cassaforte\bin\Debug\net8.0-windows\cassaforte.dll
+C:\Users\avellino.21018\Desktop\avellino_cassaforte\cassaforte\bin\Debug\net8.0-windows\cassaforte.pdb
+C:\Users\avellino.21018\Desktop\avellino_cassaforte\cassaforte\obj\Debug\net8.0-windows\cassaforte.Form1.resources
+C:\Users\avellino.21018\Desktop\avellino_cassaforte\cassaforte\obj\Debug\net8.0-windows\cassaforte.csproj.GenerateResource.cache
+C:\Users\avellino.21018\Desktop\avellino_cassaforte\cassaforte\obj\Debug\net8.0-windows\cassaforte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avellino.21018\Desktop\avellino_cassaforte\cassaforte\obj\Debug\net8.0-windows\cassaforte.AssemblyInfoInputs.cache
+C:\Users\avellino.21018\Desktop\avellino_cassaforte\cassaforte\obj\Debug\net8.0-windows\cassaforte.AssemblyInfo.cs
+C:\Users\avellino.21018\Desktop\avellino_cassaforte\cassaforte\obj\Debug\net8.0-windows\cassaforte.csproj.CoreCompileInputs.cache
+C:\Users\avellino.21018\Desktop\avellino_cassaforte\cassaforte\obj\Debug\net8.0-windows\cassaforte.sourcelink.json
+C:\Users\avellino.21018\Desktop\avellino_cassaforte\cassaforte\obj\Debug\net8.0-windows\cassaforte.dll
+C:\Users\avellino.21018\Desktop\avellino_cassaforte\cassaforte\obj\Debug\net8.0-windows\refint\cassaforte.dll
+C:\Users\avellino.21018\Desktop\avellino_cassaforte\cassaforte\obj\Debug\net8.0-windows\cassaforte.pdb
+C:\Users\avellino.21018\Desktop\avellino_cassaforte\cassaforte\obj\Debug\net8.0-windows\cassaforte.genruntimeconfig.cache
+C:\Users\avellino.21018\Desktop\avellino_cassaforte\cassaforte\obj\Debug\net8.0-windows\ref\cassaforte.dll
